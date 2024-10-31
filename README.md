@@ -69,18 +69,17 @@ Load variables with dotenv:
 
 require('dotenv').config();
 const token = process.env.TELEGRAM_TOKEN;
-
----
-6. Additional Documentation
-For more details:
+```
+### 6. Additional Documentation
+For more details, refer to the following documents:
 
 Error Handling and Troubleshooting
-Code conventions
-Product documentation
-Software architecture schemas
+Code Conventions
+Product Documentation
+Software Architecture Schemas
 Database Schema
-Sequence diagram
-Technical decision log
+Sequence Diagram
+Technical Decision Log
 
 ## Documentation Links
 
