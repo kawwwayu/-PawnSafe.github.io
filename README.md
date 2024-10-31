@@ -10,6 +10,7 @@ A Telegram bot to create a trusted marketplace for SDU students to buy and sell 
 3. [Logic Flow](#logic-flow)
 4. [Entry Point](#entry-point)
 5. [Environment Variables](#environment-variables)
+6. [Additional Documentation](#additional-documentation)
 
 ---
 
@@ -68,4 +69,27 @@ Load variables with dotenv:
 
 require('dotenv').config();
 const token = process.env.TELEGRAM_TOKEN;
+
+---
+6. Additional Documentation
+For more details:
+
+Error Handling and Troubleshooting
+Code conventions
+Product documentation
+Software architecture schemas
+Database Schema
+Sequence diagram
+Technical decision log
+
+## Documentation Links
+
+- [ERROR_HANDLING.md](docs/ERROR_HANDLING.md)
+- [CODE_CONVENTIONS.md](docs/CODE_CONVENTIONS.md)
+- [PRODUCT_DOCUMENTATION.md](docs/PRODUCT_DOCUMENTATION.md)
+- [SOFTWARE_ARCHITECTURE_SCHEMAS.md](docs/SOFTWARE_ARCHITECTURE_SCHEMAS.md)
+- [DATABASE_SCHEMA.md](docs/DATABASE_SCHEMA.md)
+- [SEQUENCE_DIAGRAM.md](docs/SEQUENCE_DIAGRAM.md)
+- [TECHNICAL_DECISION.md](docs/TECHNICAL_DECISION.md)
+
 
